@@ -63,25 +63,6 @@ legend("topleft", legend = c("Planned Savings", "Planned Investment", "Pandemic 
        col = c("blue", "red","green", "orange"), lty = 1, cex = 0.8)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 library(readr)
 
 #Question 2
